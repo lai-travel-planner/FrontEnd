@@ -1,0 +1,30 @@
+.App-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #c586f7;
+    color: white;
+    height: 100px;
+    width: 100%;
+}
+
+
+.App-title {
+    flex: 1;
+    text-align: left;
+    font-weight: bold;
+    font-size: 17px;
+    color: #101719;
+}
+.explore{
+    font-size: 20px;
+    padding-right: 20px;
+}
+.routes{
+    font-size: 20px;
+    padding-right: 20px;
+}
+.logout {
+    font-size: 20px;
+    padding-right: 20px;
+}

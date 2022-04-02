@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d40b75-8c46-407c-9591-7e469e71243d" name="Changes" comment="" />
+    <list default="true" id="65d40b75-8c46-407c-9591-7e469e71243d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/component/PageLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/PageRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/RoutesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/PageRoutes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/RoutesMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/TopBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/TopBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Routes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/TopBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/TopBar.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FrontEnd" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,12 +45,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travelplanner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\traveller\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\traveller" />
       <recent name="E:\traveller\src\tests" />
       <recent name="E:\traveller\src\styles" />
       <recent name="E:\traveller\src\component" />
@@ -55,11 +74,23 @@
       <workItem from="1648095808065" duration="606000" />
       <workItem from="1648575730082" duration="14205000" />
       <workItem from="1648755137371" duration="2423000" />
-      <workItem from="1648781922736" duration="4527000" />
+      <workItem from="1648781922736" duration="15385000" />
+      <workItem from="1648845564086" duration="13410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

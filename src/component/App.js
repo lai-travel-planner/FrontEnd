@@ -1,31 +1,31 @@
 import React, { useState } from "react";
 import TopBar from "./TopBar";
 import Main from "./Main";
-import { TOKEN_KEY } from "../constants";
+// import { TOKEN_KEY } from "../constants";
 // import "../styles/App.css";
 
 
 function App() {
     const [isLoggedIn, setIsLoggedIn] = useState(
-        localStorage.getItem(TOKEN_KEY) ? true : false
+        true
     );
 
     const logout = () => {
         console.log("log out");
-        localStorage.removeItem(TOKEN_KEY);
+        // localStorage.removeItem(TOKEN_KEY);
         setIsLoggedIn(false);
     };
 
     const loggedIn = (token) => {
         if (token) {
-            localStorage.setItem(TOKEN_KEY, token);
+            // localStorage.setItem(TOKEN_KEY, token);
             setIsLoggedIn(true);
         }
     };
     return (
         <div className="App">
             <TopBar isLoggedIn={isLoggedIn} handleLogout={logout} />
-            <Main/>
+            <Main isLoggedIn={isLoggedIn} handleLoggedIn={loggedIn}/>
         </div>
     );
 }
